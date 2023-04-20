@@ -3,6 +3,7 @@
 # ruby 3-arrays.rb
 
 # Arrays are lists of things
+foods = []
 
 # Accessing the array
 

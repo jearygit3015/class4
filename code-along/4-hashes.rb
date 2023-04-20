@@ -3,6 +3,10 @@
 # ruby 4-hashes.rb
 
 # Hashes are lists of *key-value pairs*
+profile = {
+    "name" => "Ben",
+    "location" => {"city" => "Chicago, "State" }
+}
 
 # Accessing data from the hash
 
